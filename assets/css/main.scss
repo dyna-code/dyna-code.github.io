@@ -41,7 +41,7 @@
 @import "print";
 
 
-
+//grid layout to portfolio page
 .portfolio-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
